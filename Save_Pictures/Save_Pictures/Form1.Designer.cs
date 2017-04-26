@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btnPicture = new System.Windows.Forms.Button();
             this.pgBarCarga = new System.Windows.Forms.ProgressBar();
             this.SuspendLayout();
@@ -56,8 +57,10 @@
             this.ClientSize = new System.Drawing.Size(210, 133);
             this.Controls.Add(this.pgBarCarga);
             this.Controls.Add(this.btnPicture);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Guardar Imagenes en LocalHost";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Save Image";
             this.ResumeLayout(false);
 
         }
