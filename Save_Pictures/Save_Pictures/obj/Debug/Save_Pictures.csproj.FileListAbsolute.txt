@@ -6,3 +6,12 @@ D:\Documents\Proyects\Guardar_Imagenes\Save_Pictures\Save_Pictures\obj\Debug\Sav
 D:\Documents\Proyects\Guardar_Imagenes\Save_Pictures\Save_Pictures\obj\Debug\Save_Pictures.csproj.GenerateResource.Cache
 D:\Documents\Proyects\Guardar_Imagenes\Save_Pictures\Save_Pictures\obj\Debug\Save_Pictures.exe
 D:\Documents\Proyects\Guardar_Imagenes\Save_Pictures\Save_Pictures\obj\Debug\Save_Pictures.pdb
+D:\Documents\Proyects\GitHub\Exportar_Imagenes\Save_Pictures\Save_Pictures\bin\Debug\Save_Pictures.exe.config
+D:\Documents\Proyects\GitHub\Exportar_Imagenes\Save_Pictures\Save_Pictures\obj\Debug\Save_Pictures.exe
+D:\Documents\Proyects\GitHub\Exportar_Imagenes\Save_Pictures\Save_Pictures\obj\Debug\Save_Pictures.pdb
+D:\Documents\Proyects\GitHub\Exportar_Imagenes\Save_Pictures\Save_Pictures\bin\Debug\Save_Pictures.exe
+D:\Documents\Proyects\GitHub\Exportar_Imagenes\Save_Pictures\Save_Pictures\bin\Debug\Save_Pictures.pdb
+D:\Documents\Proyects\GitHub\Exportar_Imagenes\Save_Pictures\Save_Pictures\obj\Debug\Save_Pictures.csprojResolveAssemblyReference.cache
+D:\Documents\Proyects\GitHub\Exportar_Imagenes\Save_Pictures\Save_Pictures\obj\Debug\Save_Pictures.Form1.resources
+D:\Documents\Proyects\GitHub\Exportar_Imagenes\Save_Pictures\Save_Pictures\obj\Debug\Save_Pictures.Properties.Resources.resources
+D:\Documents\Proyects\GitHub\Exportar_Imagenes\Save_Pictures\Save_Pictures\obj\Debug\Save_Pictures.csproj.GenerateResource.Cache

@@ -45,8 +45,11 @@ namespace Save_Pictures
             //}
             // selecciona una carpeta
             FolderBrowserDialog fbd = new FolderBrowserDialog();
-            fbd.Description = "Seleccione la ruta";
+            //descripcion en la ventana emergente 
+            fbd.Description = "Seleccione la ruta deonde se extportaran los archivos";
+            // ruta por defecto a mostrar
             fbd.RootFolder = Environment.SpecialFolder.Desktop;
+            //accion a realizar si resultado es correcto
             if (fbd.ShowDialog() == DialogResult.OK)
             {
                 SaveProcess(fbd.SelectedPath.ToString()+"\\");
@@ -55,10 +58,10 @@ namespace Save_Pictures
         //-----------------combierte los bytes almacenados en la base de datos y los guarda formato jpg
         private static void WriteBinaryFile(string fileName, byte[] data)
         {
-            if ((string.IsNullOrEmpty(fileName)))
+            if (string.IsNullOrEmpty(fileName))
                 throw new ArgumentException("No se ha especificado el archivo de destino.", "fileName");
 
-            if ((data == null))
+            if (data == null)
                 throw new ArgumentException("Los datos no son válidos para crear un archivo.", "data");
 
             // Crear el archivo. Se producirá una excepción si ya existe
